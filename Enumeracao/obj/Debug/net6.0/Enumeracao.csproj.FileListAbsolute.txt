@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Enumeracao\Enumeracao\bin\Debug\net6.0\Enumeracao.exe
+C:\temp\ws-vs2022\Enumeracao\Enumeracao\bin\Debug\net6.0\Enumeracao.deps.json
+C:\temp\ws-vs2022\Enumeracao\Enumeracao\bin\Debug\net6.0\Enumeracao.runtimeconfig.json
+C:\temp\ws-vs2022\Enumeracao\Enumeracao\bin\Debug\net6.0\Enumeracao.dll
+C:\temp\ws-vs2022\Enumeracao\Enumeracao\bin\Debug\net6.0\ref\Enumeracao.dll
+C:\temp\ws-vs2022\Enumeracao\Enumeracao\bin\Debug\net6.0\Enumeracao.pdb
+C:\temp\ws-vs2022\Enumeracao\Enumeracao\obj\Debug\net6.0\Enumeracao.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\Enumeracao\Enumeracao\obj\Debug\net6.0\Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Enumeracao\Enumeracao\obj\Debug\net6.0\Enumeracao.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Enumeracao\Enumeracao\obj\Debug\net6.0\Enumeracao.AssemblyInfo.cs
+C:\temp\ws-vs2022\Enumeracao\Enumeracao\obj\Debug\net6.0\Enumeracao.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Enumeracao\Enumeracao\obj\Debug\net6.0\Enumeracao.dll
+C:\temp\ws-vs2022\Enumeracao\Enumeracao\obj\Debug\net6.0\ref\Enumeracao.dll
+C:\temp\ws-vs2022\Enumeracao\Enumeracao\obj\Debug\net6.0\Enumeracao.pdb
+C:\temp\ws-vs2022\Enumeracao\Enumeracao\obj\Debug\net6.0\Enumeracao.genruntimeconfig.cache

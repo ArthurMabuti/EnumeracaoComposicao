@@ -1,0 +1,14 @@
+C:\temp\ws-vs2022\Enumeracao\ExercicioResolvido2\bin\Debug\net6.0\ExercicioResolvido2.exe
+C:\temp\ws-vs2022\Enumeracao\ExercicioResolvido2\bin\Debug\net6.0\ExercicioResolvido2.deps.json
+C:\temp\ws-vs2022\Enumeracao\ExercicioResolvido2\bin\Debug\net6.0\ExercicioResolvido2.runtimeconfig.json
+C:\temp\ws-vs2022\Enumeracao\ExercicioResolvido2\bin\Debug\net6.0\ExercicioResolvido2.dll
+C:\temp\ws-vs2022\Enumeracao\ExercicioResolvido2\bin\Debug\net6.0\ref\ExercicioResolvido2.dll
+C:\temp\ws-vs2022\Enumeracao\ExercicioResolvido2\bin\Debug\net6.0\ExercicioResolvido2.pdb
+C:\temp\ws-vs2022\Enumeracao\ExercicioResolvido2\obj\Debug\net6.0\ExercicioResolvido2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Enumeracao\ExercicioResolvido2\obj\Debug\net6.0\ExercicioResolvido2.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Enumeracao\ExercicioResolvido2\obj\Debug\net6.0\ExercicioResolvido2.AssemblyInfo.cs
+C:\temp\ws-vs2022\Enumeracao\ExercicioResolvido2\obj\Debug\net6.0\ExercicioResolvido2.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Enumeracao\ExercicioResolvido2\obj\Debug\net6.0\ExercicioResolvido2.dll
+C:\temp\ws-vs2022\Enumeracao\ExercicioResolvido2\obj\Debug\net6.0\ref\ExercicioResolvido2.dll
+C:\temp\ws-vs2022\Enumeracao\ExercicioResolvido2\obj\Debug\net6.0\ExercicioResolvido2.pdb
+C:\temp\ws-vs2022\Enumeracao\ExercicioResolvido2\obj\Debug\net6.0\ExercicioResolvido2.genruntimeconfig.cache
